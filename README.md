@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👋 Hi, I’m @naga, a passionate devops and automation engineer
+- 👋 Hi, I’m @naga, a passionate Devops and Automation engineer
 
 - 👀 I’m interested in cutting-edge DevOps Technologies
 - 🌱 I’m currently learning ...Kubernetes
