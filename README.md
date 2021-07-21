@@ -5,7 +5,7 @@
 - 👀 I’m interested in cutting-edge DevOps Technologies
 - 🌱 I’m currently learning ...Kubernetes
 - 💞️ I’m looking to collaborate on ...Jenkins, Docker, Git, Terraform, Ansible, Kubernetes, AWS, DevOps, Python, Bash
-- 📫 How to reach me ...
+
 
 Technologies & Tools:
 
