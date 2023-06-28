@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @naga, a passionate Devops and Automation engineer
 
 - 👀 I’m interested in cutting-edge DevOps Technologies
-- 🌱 I’m currently learning ...Kubernetes
+- 🌱 I’m currently learning ...new Devops technologies
 - 💞️ I’m looking to collaborate on ...Jenkins, Docker, Git, Terraform, Ansible, Kubernetes, AWS, DevOps, Python, Bash
 
 
