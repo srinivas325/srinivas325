@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in cutting-edge DevOps Technologies
 - 🌱 I’m currently learning ...new Devops technologies
-- 💞️ I’m looking to collaborate on ...Jenkins, Docker, Git, Terraform, Ansible, Kubernetes, AWS, DevOps, Python, Bash
+- 💞️ I’m looking to collaborate on ...Jenkins, Docker, Git, Terraform,VMWare, Tanzu Kubernetes Grid,Tanzu Observability,vSphere,VMC on AWS, Ansible, Kubernetes, AWS, DevOps, Python, Bash
 
 
 Technologies & Tools:
